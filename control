@@ -4,7 +4,7 @@ Depends:
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Extract Asset.car files from bundles
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Author: Elias Limneos <limneoselias@gmail.com>
+Maintainer: Elias Limneos 
+Author: Elias Limneos 
 Section: System
 Tag: role::hacker
